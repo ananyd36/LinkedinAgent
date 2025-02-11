@@ -16,7 +16,8 @@ async def main():
             Question : How many years of work experience do you have with Neuroscience? Answer : 0
             Question : How many years of work experience do you have with C++? Answer : 4,
             Question : How many years of work experience do you have with Python? Answer : 5,
-            Question : Are you eligible to work in the country where the job is posted? Answer : Yes
+            Question : Are you eligible to work in the country where the job is posted? Answer : Yes,
+            Question : Are you a veteran? Answer : No
             Question : Do you need sponsorship now or in future? Answer : Yes,
             Question : Can you start immediately? Answer : No
             
