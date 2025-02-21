@@ -1,5 +1,5 @@
 
-## **LinkedIn Job Application Automation**  
+# **LinkedIn Job Application Automation**  
 
 📌 **Project:** Automating **LinkedIn Easy Apply** using **LangChain, OpenAI GPT-4o, and browser automation**  
 
